@@ -1,0 +1,13 @@
+menu{background-image:url(image/bg.gif);height:100px;background-repeat:no-repeat;}
+
+ul{list-style-type:none;font-style:normal;}
+
+li{float:left;text-align:center;margin-left:45px;margin-top:38px;}
+
+.special{color:orange;}
+
+a{color:white;text-decoration:none;}
+
+a:hover{text-decoration:underline;}
+
+#no1{color:#b9f605;}
