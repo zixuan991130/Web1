@@ -1,0 +1,12 @@
+.image{width:202px;height:190px;float:left;margin-left:3px;margin-right:3px;}
+			
+.desc{width:180px;height:30px;line-height:30px;font-size:12px;font-family:'ËÎÌו';text-align:center;color:black;}
+			
+a:link{opacity:0.5;}
+			
+a:hover{opacity:1;}
+			
+.image img{display:inline;margin:3px;border:1px solid 
+#bebebe;width:202px;height:162px;}
+			
+.image a:hover img{border:1px solid #333333;}
