@@ -1,0 +1,51 @@
+			*{text-align:center;color:#522a06;padding:0px;margin:0px;font-size:12px;font-family:'宋体';}
+
+			li{list-style-image:url(../images/pot.gif);text-align:left;list-style-position:inside;}
+			
+			a:link{text-decoration:none;color:#522a06;}
+			
+			a:hover{text-decoration:none;}
+			
+			body{background:url(../images/bodybg.gif);width:100%;margin:auto;height:1000px;}
+			
+			#header{height:205px;background:url(../images/bg.gif) no-repeat center top;}
+
+			.biaoti{margin-top:40px;margin-bottom:40px;font-size:50px;text-align:center;color:blue;}
+			
+			#banner{height:130px;width:100%;padding-top:30px;margin:auto;background:url(../images/title.jpg);}
+			
+			#banner img{width:1000px;display:block;margin-left:10px;height:130px;float:left;}
+
+			#nav{height:40px;background:url(../images/nav.jpg);margin:auto;opacity:0.3;}
+			
+			.nav_content{width:800px;font-weight:bolder;color:#fff;height:40px;padding-top:12px;margin-left:120px;float:left;}
+			
+			.nav_content a{color:red;}
+			
+			.nav_content a:hover{color:green;text-decoration:none;}
+			
+			.shouye{color:green;}
+			
+			.nav_search{float:left;width:200px;height:21px;background-color:#f8f5ee;margin-top:10px;padding-right:0px;}
+			
+			.sousuokuang{width:140px;height:21px;border:none;}
+			
+			.button{width:44px;height:21px;background-color:#000;color:#fff;border:1px solid #f8f5ee;}
+
+			#shouye{width:400px;height:300px;}
+
+			#content{margin-left:100px;margin-right:500px;height:600px;width:1300px;background-image: url(../images/beijing2.jpg);}
+
+			#content a:hover{color:green;text-decoration:none;}
+
+			#tupian{width:400px;height:300px;margin-left: 460px;}
+
+			#wenzi{color:blue;font-size: 30px;height:30px;line-height: 30px;}
+
+			.dianji{width:30px;height:30px;}
+
+			#liaojie{color:blue;text-decoration:none;font-size:50px;margin-top:100px;margin-left:0px;}
+
+			#footer{padding-top:50px;height:105px;clear:both;background:url(../images/t.jpg);width:900px;margin-left:300px;margin-right:120px;opacity:0.5;}
+			
+			.youqinglianjie{margin-left:30px;padding-top:30px;color:blue;}		
